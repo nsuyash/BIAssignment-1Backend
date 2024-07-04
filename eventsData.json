@@ -1,0 +1,267 @@
+[
+  {
+    "title": "Tech Innovations Conference",
+    "host": "Tech World",
+    "details": "A conference discussing the latest in tech innovations.",
+    "date": "07/01/2024",
+    "day": "Monday",
+    "time": "09:00 AM",
+    "location": "Tech Park, Silicon Valley",
+    "price": "50",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "John Doe",
+        "image": "https://randomuser.me/api/portraits/med/men/43.jpg",
+        "organization": "Tech Corp",
+        "department": "Innovation"
+      },
+      {
+        "name": "Jane Smith",
+        "image": "https://randomuser.me/api/portraits/med/men/72.jpg",
+        "organization": "Future Tech",
+        "department": "R&D"
+      }
+    ],
+    "coverImageUrl": "https://img.freepik.com/free-photo/technology-innovation-digital-evolution-homepage-concept_53876-165281.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719014400&semt=ais_user",
+    "dressCode": "Business Casual",
+    "ageRestriction": "18+",
+    "tag": "Technology"
+  },
+  {
+    "title": "Music Festival 2024",
+    "host": "Live Nation",
+    "details": "A three-day music festival featuring various artists.",
+    "date": "08/15/2024",
+    "day": "Thursday",
+    "time": "12:00 PM",
+    "location": "Central Park, New York",
+    "price": "150",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "DJ Snake",
+        "image": "https://randomuser.me/api/portraits/med/men/1.jpg",
+        "organization": "Music World",
+        "department": "Performance"
+      },
+      {
+        "name": "Taylor Swift",
+        "image": "https://randomuser.me/api/portraits/med/women/78.jpg",
+        "organization": "Swift Enterprises",
+        "department": "Music"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/8/9/e/7/event_516635303.webp?w=256",
+    "dressCode": "Casual",
+    "ageRestriction": "All ages",
+    "tag": "Music"
+  },
+  {
+    "title": "Art Exhibition",
+    "host": "Modern Art Gallery",
+    "details": "An exhibition showcasing contemporary art.",
+    "date": "09/10/2024",
+    "day": "Tuesday",
+    "time": "10:00 AM",
+    "location": "Downtown Art Gallery, Chicago",
+    "price": "20",
+    "eventType": "offline",
+    "speakers": [
+      {
+        "name": "Emily Johnson",
+        "image": "https://randomuser.me/api/portraits/med/women/78.jpg",
+        "organization": "Modern Art Inc.",
+        "department": "Curation"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/e/2/5/6/event_497697942.webp?w=256",
+    "dressCode": "Smart Casual",
+    "ageRestriction": "All ages",
+    "tag": "Art"
+  },
+  {
+    "title": "Business Networking Event",
+    "host": "BizNet",
+    "details": "A networking event for business professionals.",
+    "date": "06/30/2024",
+    "day": "Sunday",
+    "time": "06:00 PM",
+    "location": "City Conference Hall, Boston",
+    "price": "30",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "Michael Brown",
+        "image": "https://randomuser.me/api/portraits/med/men/63.jpg",
+        "organization": "BizWorld",
+        "department": "Networking"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/4/e/f/b/event_509900219.webp?w=256",
+    "dressCode": "Business Formal",
+    "ageRestriction": "21+",
+    "tag": "Business"
+  },
+  {
+    "title": "Culinary Workshop",
+    "host": "Chef Masters",
+    "details": "A workshop for culinary enthusiasts to learn new recipes.",
+    "date": "07/20/2024",
+    "day": "Saturday",
+    "time": "02:00 PM",
+    "location": "Gourmet Kitchen, San Francisco",
+    "price": "75",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "Chef Gordon Ramsay",
+        "image": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "organization": "Gordon Ramsay Group",
+        "department": "Culinary"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/8/e/a/c/event_521796524.webp?w=256",
+    "dressCode": "Casual",
+    "ageRestriction": "18+",
+    "tag": "Food"
+  },
+  {
+    "title": "Yoga Retreat",
+    "host": "Wellness Center",
+    "details": "A relaxing yoga retreat for beginners and advanced practitioners.",
+    "date": "07/25/2024",
+    "day": "Thursday",
+    "time": "08:00 AM",
+    "location": "Mountain Resort, Colorado",
+    "price": "200",
+    "eventType": "offline",
+    "speakers": [
+      {
+        "name": "Samantha Lee",
+        "image": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "organization": "Wellness Center",
+        "department": "Yoga"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/8/3/1/b/event_517053563.webp?w=256",
+    "dressCode": "Comfortable",
+    "ageRestriction": "All ages",
+    "tag": "Health"
+  },
+  {
+    "title": "Startup Pitch Event",
+    "host": "Innovate Hub",
+    "details": "An event for startups to pitch their ideas to investors.",
+    "date": "08/05/2024",
+    "day": "Monday",
+    "time": "10:00 AM",
+    "location": "Innovation Center, Seattle",
+    "price": "Free",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "Elon Musk",
+        "image": "https://randomuser.me/api/portraits/med/men/53.jpg",
+        "organization": "SpaceX",
+        "department": "Innovation"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/6/1/9/d/event_518364989.webp?w=256",
+    "dressCode": "Business Casual",
+    "ageRestriction": "21+",
+    "tag": "Startup"
+  },
+  {
+    "title": "Film Festival",
+    "host": "Cinema World",
+    "details": "A week-long festival showcasing indie films.",
+    "date": "09/15/2024",
+    "day": "Sunday",
+    "time": "01:00 PM",
+    "location": "City Theatre, Los Angeles",
+    "price": "100",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "Quentin Tarantino",
+        "image": "https://randomuser.me/api/portraits/med/women/75.jpg",
+        "organization": "Tarantino Films",
+        "department": "Directing"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/9/0/0/e/event_519276878.webp?w=256",
+    "dressCode": "Casual",
+    "ageRestriction": "All ages",
+    "tag": "Film"
+  },
+  {
+    "title": "Photography Workshop",
+    "host": "Photo Masters",
+    "details": "A workshop for aspiring photographers.",
+    "date": "07/12/2024",
+    "day": "Friday",
+    "time": "09:00 AM",
+    "location": "City Park, Austin",
+    "price": "50",
+    "eventType": "offline",
+    "speakers": [
+      {
+        "name": "Annie Leibovitz",
+        "image": "https://randomuser.me/api/portraits/med/women/26.jpg",
+        "organization": "Leibovitz Studio",
+        "department": "Photography"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/3/event_521834883.webp?w=256",
+    "dressCode": "Casual",
+    "ageRestriction": "All ages",
+    "tag": "Photography"
+  },
+  {
+    "title": "Fashion Show",
+    "host": "Style Icon",
+    "details": "A showcase of the latest fashion trends.",
+    "date": "08/22/2024",
+    "day": "Thursday",
+    "time": "07:00 PM",
+    "location": "Fashion Street, Paris",
+    "price": "80",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "Anna Wintour",
+        "image": "https://randomuser.me/api/portraits/med/women/34.jpg",
+        "organization": "Vogue",
+        "department": "Fashion"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/a/8/f/2/event_470983250.webp?w=256",
+    "dressCode": "Fashionable",
+    "ageRestriction": "18+",
+    "tag": "Fashion"
+  },
+  {
+    "title": "Book Fair",
+    "host": "Readers Club",
+    "details": "A fair for book lovers to explore new titles.",
+    "date": "07/18/2024",
+    "day": "Thursday",
+    "time": "10:00 AM",
+    "location": "Convention Center, London",
+    "price": "Free",
+    "eventType": "online",
+    "speakers": [
+      {
+        "name": "J.K. Rowling",
+        "image": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "organization": "Author",
+        "department": "Writing"
+      }
+    ],
+    "coverImageUrl": "https://secure.meetupstatic.com/photos/event/a/4/5/c/event_475228860.webp?w=256",
+    "dressCode": "Casual",
+    "ageRestriction": "All ages",
+    "tag": "Books"
+  }
+]
