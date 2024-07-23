@@ -4,7 +4,7 @@
     "host": "Tech World",
     "details": "A conference discussing the latest in tech innovations.",
     "date": "07/01/2024",
-    "day": "Monday",
+    "day": "Monday", 
     "time": "09:00 AM",
     "location": "Tech Park, Silicon Valley",
     "price": "50",
