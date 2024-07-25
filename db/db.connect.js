@@ -4,7 +4,10 @@ const mongoUrl = process.env.MONGODB_URL
 
 const initializeDatabase = () => {
   try {
-    const connected = mongoose.connect(mongoUrl)
+    const connected = mongoose.connect(mongoUrl,{
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
 
     if(connected){
       console.log('Connected successfully.')
